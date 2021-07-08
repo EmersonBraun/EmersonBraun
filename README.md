@@ -3,7 +3,7 @@
 
 #### I'm a Full-Stack Developer working in Paraná, Brasil.
 
-- 🏢 I'm currently working at **Government of Paraná**
+- 🏢 I'm currently working at **CI&T**
 - 👯 I’m looking to collaborate on **Open Source**
 - 🤔 I’m looking for help with **Open Source**
 - 💬 Ask me about **development**, **design patterns**, **SOLID**, **software engineering**
