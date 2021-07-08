@@ -48,3 +48,5 @@
     <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=black" alt="Facebook"/>
   </a>
 </p>
+
+![snake gif](https://github.com/EmersonBraun/EmersonBraun/blob/output/github-contribution-grid-snake.gif)
