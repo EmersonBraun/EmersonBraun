@@ -1,8 +1,5 @@
 ### Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-
-#### I'm a Full-Stack Developer working in Paraná, Brasil.
-
 - 🏢 I'm currently working at **AWWCor**
 - 👯 I’m looking to collaborate on **Open Source**
 - 🤔 I’m looking for help with **Open Source**
