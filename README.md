@@ -3,7 +3,7 @@
 
 #### I'm a Full-Stack Developer working in Paraná, Brasil.
 
-- 🏢 I'm currently working at **CI&T**
+- 🏢 I'm currently working at **AWWCor**
 - 👯 I’m looking to collaborate on **Open Source**
 - 🤔 I’m looking for help with **Open Source**
 - 💬 Ask me about **development**, **design patterns**, **SOLID**, **software engineering**
@@ -34,7 +34,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab)
 
-<p align="center">
+<p >
   <a href="https://www.linkedin.com/in/emerson-braun-051917130/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" alt="LinkedIn"/>
   </a>
@@ -46,6 +46,12 @@
   </a>
   <a href="https://www.facebook.com/emerson.braun" target="_blank">
     <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=black" alt="Facebook"/>
+  </a>
+  <a href="https://www.codewars.com/users/EmersonBraun" target="_blank">
+    <img src="https://img.shields.io/badge/codewars-%231877F2.svg?&style=for-the-badge&logo=codewars&logoColor=white&color=black" alt="CodeWars"/>
+  </a>
+  <a href="https://join.skype.com/invite/grKGvaSYPx7N" target="_blank">
+    <img src="https://img.shields.io/badge/skype-%231877F2.svg?&style=for-the-badge&logo=skype&logoColor=white&color=black" alt="Skype"/>
   </a>
 </p>
 
