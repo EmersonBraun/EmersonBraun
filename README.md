@@ -7,8 +7,7 @@
 - ⚡️ Fun fact: I had a band when I was younger, if you are curious this is it:  
 [![Banda Rembrandt](https://img.shields.io/badge/-Youtube-black?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=jDHks7OCxkk)
 
-
-![GitLab](https://github-readme-stats.vercel.app/api?username=EmersonBraun&show_icons=true&theme=dark)
+<a href="https://app.daily.dev/EmersonBraun"><img src="https://api.daily.dev/devcards/c28f1bccba744d4fb658c24021ddc62f.png?r=fop" width="400" alt="Emerson Braun's Dev Card"/></a>
 
 <p >
   <a href="https://www.linkedin.com/in/emerson-braun-051917130/" target="_blank">
