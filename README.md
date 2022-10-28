@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-- 🏢 I'm currently working at **Plan A**
+- 🏢 I'm currently working at **SecurityScorecard**
 - 👯 I’m looking to collaborate on **Open Source**
 - 🤔 I’m looking for help with **Open Source**
 - 💬 Ask me about **development**, **design patterns**, **SOLID**, **software engineering**
