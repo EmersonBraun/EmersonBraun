@@ -3,19 +3,19 @@
   <h1>Hey, I'm Emerson Braun</h1>
   <p><strong>Regional Director @ Plan A Technologies</strong> · Software Architect · 15+ Years in Engineering</p>
 
-  <a href="https://emersonbraun.dev/" target="_blank">
+  <a href="https://emersonbraun.dev/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Website-emersonbraun.dev-black?style=for-the-badge&logo=safari&logoColor=white" alt="Website"/>
   </a>
-  <a href="https://www.linkedin.com/in/emerson-braun/" target="_blank">
+  <a href="https://www.linkedin.com/in/emerson-braun/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-Emerson%20Braun-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://x.com/EmersonfBraun" target="_blank">
+  <a href="https://x.com/EmersonfBraun" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/X%2FTwitter-@EmersonfBraun-black?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter"/>
   </a>
-  <a href="https://www.youtube.com/@emerson.braun_dev" target="_blank">
+  <a href="https://www.youtube.com/@emerson.braun_dev" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/YouTube-@emerson.braun__dev-black?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
-  <a href="https://www.instagram.com/emerson.braun.dev/" target="_blank">
+  <a href="https://www.instagram.com/emerson.braun.dev/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-emerson.braun.dev-black?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </div>
@@ -50,13 +50,13 @@ I create free content to help engineers level up their careers:
 
 | Resource | Link |
 |---|---|
-| 📘 E-Book: Cracking the Technical Interview | [ebook.emersonbraun.dev](https://ebook.emersonbraun.dev/) |
-| 📬 Newsletter | [emersonbraun.dev/newsletter](https://emersonbraun.dev/newsletter) |
-| ☁️ AWS Cheatsheet | [emersonbraun.github.io/aws-cheatsheet](https://emersonbraun.github.io/aws-cheatsheet/) |
-| 📊 Big O Complexity Cheat Sheet | [View Resource](https://emersonbraun.dev/resources/big-o-complexity-cheat-sheet) |
-| 🧹 Clean Code Principles Workbook | [View Resource](https://emersonbraun.dev/resources/clean-code-principles-workbook) |
-| 🗂️ Complete Interview Guide | [View Resource](https://emersonbraun.dev/resources/complete-interview-guide) |
-| 💡 LeetCode Top 100 Liked Questions | [View Resource](https://emersonbraun.dev/resources/leetcode-top-100-liked-questions) |
+| 📘 E-Book: Cracking the Technical Interview | <a href="https://ebook.emersonbraun.dev/" target="_blank" rel="noopener noreferrer">ebook.emersonbraun.dev</a> |
+| 📬 Newsletter | <a href="https://emersonbraun.dev/newsletter" target="_blank" rel="noopener noreferrer">emersonbraun.dev/newsletter</a> |
+| ☁️ AWS Cheatsheet | <a href="https://emersonbraun.github.io/aws-cheatsheet/" target="_blank" rel="noopener noreferrer">emersonbraun.github.io/aws-cheatsheet</a> |
+| 📊 Big O Complexity Cheat Sheet | <a href="https://emersonbraun.dev/resources/big-o-complexity-cheat-sheet" target="_blank" rel="noopener noreferrer">View Resource</a> |
+| 🧹 Clean Code Principles Workbook | <a href="https://emersonbraun.dev/resources/clean-code-principles-workbook" target="_blank" rel="noopener noreferrer">View Resource</a> |
+| 🗂️ Complete Interview Guide | <a href="https://emersonbraun.dev/resources/complete-interview-guide" target="_blank" rel="noopener noreferrer">View Resource</a> |
+| 💡 LeetCode Top 100 Liked Questions | <a href="https://emersonbraun.dev/resources/leetcode-top-100-liked-questions" target="_blank" rel="noopener noreferrer">View Resource</a> |
 
 ---
 
@@ -86,7 +86,7 @@ I create free content to help engineers level up their careers:
 ## Fun Fact
 
 I had a teen pop-rock band called **Banda Rembrandt** — and yes, I wrote the songs.  
-[![Banda Rembrandt on YouTube](https://img.shields.io/badge/Watch%20on-YouTube-black?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=jDHks7OCxkk)
+<a href="https://open.spotify.com/track/5BOOwSJsONugWXtkNVpLdK" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Listen%20on-Spotify-black?style=for-the-badge&logo=spotify&logoColor=white" alt="Banda Rembrandt on Spotify"/></a>
 
 ---
 
