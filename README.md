@@ -57,6 +57,9 @@ I create free content to help engineers level up their careers:
 | 🧹 Clean Code Principles Workbook | <a href="https://emersonbraun.dev/resources/clean-code-principles-workbook" target="_blank" rel="noopener noreferrer">View Resource</a> |
 | 🗂️ Complete Interview Guide | <a href="https://emersonbraun.dev/resources/complete-interview-guide" target="_blank" rel="noopener noreferrer">View Resource</a> |
 | 💡 LeetCode Top 100 Liked Questions | <a href="https://emersonbraun.dev/resources/leetcode-top-100-liked-questions" target="_blank" rel="noopener noreferrer">View Resource</a> |
+| 🟨 JS from Zero to Hero | <a href="https://emersonbraun.github.io/js-from-zero-to-hero/" target="_blank" rel="noopener noreferrer">emersonbraun.github.io/js-from-zero-to-hero</a> |
+| 🏋️ LeetCode Solutions | <a href="https://emersonbraun.github.io/leetcode/" target="_blank" rel="noopener noreferrer">emersonbraun.github.io/leetcode</a> |
+| 🔄 Language Comparison | <a href="https://emersonbraun.github.io/language-comparison/" target="_blank" rel="noopener noreferrer">emersonbraun.github.io/language-comparison</a> |
 
 ---
 
