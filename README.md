@@ -60,6 +60,9 @@ I create free content to help engineers level up their careers:
 | 🟨 JS from Zero to Hero | <a href="https://emersonbraun.github.io/js-from-zero-to-hero/" target="_blank" rel="noopener noreferrer">emersonbraun.github.io/js-from-zero-to-hero</a> |
 | 🏋️ LeetCode Solutions | <a href="https://emersonbraun.github.io/leetcode/" target="_blank" rel="noopener noreferrer">emersonbraun.github.io/leetcode</a> |
 | 🔄 Language Comparison | <a href="https://emersonbraun.github.io/language-comparison/" target="_blank" rel="noopener noreferrer">emersonbraun.github.io/language-comparison</a> |
+| 🐍 Python from Zero to Hero | <a href="https://emersonbraun.github.io/python-from-zero-to-hero/" target="_blank" rel="noopener noreferrer">emersonbraun.github.io/python-from-zero-to-hero</a> |
+| 🤖 AI Summary Hub | <a href="https://emersonbraun.github.io/ai-summary-hub/" target="_blank" rel="noopener noreferrer">emersonbraun.github.io/ai-summary-hub</a> |
+| ⚛️ React Render Strategies | <a href="https://render-strategies.emersonbraun.dev/" target="_blank" rel="noopener noreferrer">render-strategies.emersonbraun.dev</a> |
 
 ---
 
