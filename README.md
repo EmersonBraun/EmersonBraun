@@ -1,8 +1,8 @@
 # Hey, I'm Emerson Braun
 
-**Regional Director @ Plan A Technologies · AI Toolmaker · 15+ Years Shipping Software**
+**AI Engineer building the AgentsKit ecosystem · 15+ Years Shipping Software**
 
-I spent 15 years building software the hard way. Now I build the tools so you can ship AI agents in days, not months.
+I spent 15 years building software the hard way. Now I build the ecosystem so you can ship production AI agents in days, not months.
 
 <a href="https://emersonbraun.dev/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Website-emersonbraun.dev-191919?style=for-the-badge&logo=safari&logoColor=white" alt="Website"/>
@@ -22,11 +22,13 @@ I spent 15 years building software the hard way. Now I build the tools so you ca
 
 ---
 
-## What I'm Building
+## The AgentsKit Ecosystem
 
-### [AgentsKit](https://emersonbraun.github.io/agentskit) — The Modular Toolkit for AI Agents in JavaScript
+Everything you need to build, ship, and run AI agents in JavaScript — composable, open, and production-ready.
 
-14 npm packages. From a 10-line chat UI to a full autonomous agent. Framework-agnostic, lightweight, install only what you need.
+### [AgentsKit](https://www.agentskit.io) — Ship AI agents in JavaScript
+
+The modular toolkit. From a 10-line chat UI to a full autonomous agent — framework-agnostic, lightweight, install only what you need. No gluing 8 libraries together.
 
 ```bash
 npm install @agentskit/core @agentskit/react @agentskit/runtime
@@ -34,26 +36,50 @@ npm install @agentskit/core @agentskit/react @agentskit/runtime
 
 Core · React UI · Terminal UI · Runtime · Tools · Skills · Memory · RAG · Observability — all composable, all independent.
 
+[![Site](https://img.shields.io/badge/Site-agentskit.io-191919?style=flat&logo=safari&logoColor=white)](https://www.agentskit.io)
 [![npm](https://img.shields.io/badge/npm-@agentskit-191919?style=flat&logo=npm&logoColor=white)](https://www.npmjs.com/settings/agentskit/packages)
 [![GitHub](https://img.shields.io/badge/GitHub-agentskit-191919?style=flat&logo=github&logoColor=white)](https://github.com/EmersonBraun/agentskit)
 
+### [Registry](https://registry.agentskit.io) — Discover & share agents, tools, and skills
+
+One open registry for the ecosystem. Publish a capability once, version it, let others compose it — instead of every team re-gluing the same integrations.
+
+[![Registry](https://img.shields.io/badge/Browse-registry.agentskit.io-191919?style=flat&logo=safari&logoColor=white)](https://registry.agentskit.io)
+
+### [Playbook](https://playbook.agentskit.io) — How enterprises actually adopt AI
+
+The patterns that ship in production — not demos. The real-world playbook for teams putting agents to work.
+
+[![Playbook](https://img.shields.io/badge/Read-playbook.agentskit.io-191919?style=flat&logo=safari&logoColor=white)](https://playbook.agentskit.io)
+
+### [AKOS](https://akos.agentskit.io) — The enterprise control plane for your agents
+
+Operate agents at scale: governance, observability, and control for production fleets.
+
+[![AKOS](https://img.shields.io/badge/Discover-akos.agentskit.io-191919?style=flat&logo=safari&logoColor=white)](https://akos.agentskit.io)
+
 ---
 
-## What I'm Teaching
+## Free Book — Acing the AI-Era Tech Interview
 
-### [AI Summary Hub](https://emersonbraun.github.io/ai-summary-hub) — 145+ Articles from Fundamentals to Production
+A developer's guide to landing the job when every round has AI. 13 chapters, from data structures and system design to AI system design, prompt engineering, and ML fundamentals. Now **100% free** — written from 500+ interviews conducted.
 
-The resource I wish I had when I started with AI. Code examples, comparison tables, architecture diagrams. Curated learning paths from beginner to production-ready.
+[![E-book](https://img.shields.io/badge/Read_it_free-Acing_the_AI--Era_Tech_Interview-191919?style=for-the-badge&logo=gumroad&logoColor=white)](https://ebook.emersonbraun.dev/)
 
-[![Articles](https://img.shields.io/badge/145%2B-Articles-191919?style=flat)](https://emersonbraun.github.io/ai-summary-hub)
-[![Languages](https://img.shields.io/badge/6-Languages-191919?style=flat)](https://emersonbraun.github.io/ai-summary-hub)
+---
 
-### [Agent Skills](https://github.com/EmersonBraun/skills) — 21 Production-Grade Skills for the AI Builder
+## Newsletter
 
-From idea to revenue, solo. Ideation, architecture, development, go-to-market, operations — every hat a builder needs, automated. Works with Claude Code, Cursor, Copilot, and 30+ tools.
+Every week I break down one AI engineering topic with the depth of someone who's shipped it in production.
 
-[![Skills](https://img.shields.io/badge/21-Skills-191919?style=flat)](https://github.com/EmersonBraun/skills)
-[![MIT](https://img.shields.io/badge/License-MIT-191919?style=flat)](https://github.com/EmersonBraun/skills)
+[![Subscribe](https://img.shields.io/badge/Subscribe-The_AI_Builder's_Newsletter-191919?style=for-the-badge)](https://emersonbraun.dev/newsletter)
+
+---
+
+## Also building & teaching
+
+- **[AI Summary Hub](https://emersonbraun.github.io/ai-summary-hub)** — 145+ articles from fundamentals to production, in 6 languages.
+- **[Agent Skills](https://github.com/EmersonBraun/skills)** — 21 production-grade skills for the AI builder. Works with Claude Code, Cursor, Copilot & 30+ tools.
 
 ---
 
@@ -78,17 +104,3 @@ From idea to revenue, solo. Ideation, architecture, development, go-to-market, o
 ![AWS](https://img.shields.io/badge/AWS-191919?style=flat&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-191919?style=flat&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-191919?style=flat&logo=postgresql&logoColor=white)
-
----
-
-## Newsletter
-
-Every week I break down one AI engineering topic with the depth of someone who's shipped it in production.
-
-[![Subscribe](https://img.shields.io/badge/Subscribe-The_AI_Builder's_Newsletter-191919?style=for-the-badge)](https://emersonbraun.dev/newsletter)
-
----
-
-## Book
-
-[![E-book](https://img.shields.io/badge/Cracking_the_Technical_Interview_in_the_AI_Era-$9.99_on_Gumroad-191919?style=for-the-badge)](https://ebook.emersonbraun.dev/)
