@@ -24,9 +24,9 @@ I spent 15 years building software the hard way. Now I build the tools so you ca
 
 ## What I'm Building
 
-### [AgentsKit](https://emersonbraun.github.io/agentskit) — The Modular Toolkit for AI Agents in JavaScript
+### [AgentsKit](https://www.agentskit.io) — One Framework for AI Agents in JavaScript
 
-14 npm packages. From a 10-line chat UI to a full autonomous agent. Framework-agnostic, lightweight, install only what you need.
+Chat UI, runtime, tools, memory, RAG, and observability behind **one API instead of eight libraries**. Swap OpenAI → Claude, React → terminal, in-memory → a vector DB — without rewriting your code.
 
 ```bash
 npm install @agentskit/core @agentskit/react @agentskit/runtime
@@ -41,7 +41,7 @@ Core · React UI · Terminal UI · Runtime · Tools · Skills · Memory · RAG �
 
 - **[Enterprise AI Playbook](https://playbook.agentskit.io)** — hard-won patterns for teams putting AI to work: rollout, governance, agent architecture, and the mistakes that stall most projects before production.
 - **[AKOS — AgentsKit OS](https://os.agentskit.io)** — orchestrate, govern, and audit every agent your team runs. Configured in YAML, a GUI, or code, deployed on your own infra.
-- **[Registry](https://registry.agentskit.io)** — discover and share AgentsKit packages and production-grade Agent Skills in one open registry.
+- **[Registry](https://registry.agentskit.io)** — **the shadcn for agents.** Ready-to-use agents, tools, and skills you install and own — no lock-in, just building blocks that work.
 
 > **AgentsKit** to build it. **AKOS** to run it. The **Playbook** to do it right.
 
