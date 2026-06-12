@@ -37,6 +37,14 @@ Core · React UI · Terminal UI · Runtime · Tools · Skills · Memory · RAG �
 [![npm](https://img.shields.io/badge/npm-@agentskit-191919?style=flat&logo=npm&logoColor=white)](https://www.npmjs.com/settings/agentskit/packages)
 [![GitHub](https://img.shields.io/badge/GitHub-agentskit-191919?style=flat&logo=github&logoColor=white)](https://github.com/EmersonBraun/agentskit)
 
+**The rest of the stack:**
+
+- **[Enterprise AI Playbook](https://playbook.agentskit.io)** — hard-won patterns for teams putting AI to work: rollout, governance, agent architecture, and the mistakes that stall most projects before production.
+- **[AKOS — AgentsKit OS](https://os.agentskit.io)** — orchestrate, govern, and audit every agent your team runs. Configured in YAML, a GUI, or code, deployed on your own infra.
+- **[Registry](https://registry.agentskit.io)** — discover and share AgentsKit packages and production-grade Agent Skills in one open registry.
+
+> **AgentsKit** to build it. **AKOS** to run it. The **Playbook** to do it right.
+
 ---
 
 ## What I'm Teaching
@@ -89,6 +97,11 @@ Every week I break down one AI engineering topic with the depth of someone who's
 
 ---
 
-## Book
+## Book — Free
 
-[![E-book](https://img.shields.io/badge/Cracking_the_Technical_Interview_in_the_AI_Era-$9.99_on_Gumroad-191919?style=for-the-badge)](https://ebook.emersonbraun.dev/)
+### [Acing the AI-Era Tech Interview](https://ebook.emersonbraun.dev) — 151 pages, free
+
+DS&A, Big O, system design **and** AI system design (RAG, agents, evals, cost, safety), prompt engineering, ML fundamentals, behavioral, and negotiation. Written from both sides of the table — 500+ interviews, 180+ engineers led. Available in English and Portuguese.
+
+[![Read free — EN](https://img.shields.io/badge/Read_free-English-0f9d58?style=for-the-badge)](https://ebook.emersonbraun.dev)
+[![Ler grátis — PT](https://img.shields.io/badge/Ler_grátis-Português-0f9d58?style=for-the-badge)](https://ebook.emersonbraun.dev/pt)
