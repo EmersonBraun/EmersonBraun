@@ -43,7 +43,7 @@ Core · React UI · Terminal UI · Runtime · Tools · Skills · Memory · RAG �
 - **[AKOS — AgentsKit OS](https://os.agentskit.io)** — orchestrate, govern, and audit every agent your team runs. Configured in YAML, a GUI, or code, deployed on your own infra.
 - **[Registry](https://registry.agentskit.io)** — **the shadcn for agents.** Ready-to-use agents, tools, and skills you install and own — no lock-in, just building blocks that work.
 
-> **AgentsKit** to build it. **AKOS** to run it. The **Playbook** to do it right.
+> **AgentsKit** to build it. The **Registry** to skip the boilerplate. **AKOS** to run it. The **Playbook** to do it right.
 
 ---
 
